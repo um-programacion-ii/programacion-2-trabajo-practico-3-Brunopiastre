@@ -1,6 +1,7 @@
 tp/testing/Catalogo.class
 tp/testing/Prestamo.class
+tp/testing/Libro.class
+tp/testing/GestionUsuarios.class
+tp/testing/Usuario.class
 tp/testing/SistemaPrestamos.class
 tp/testing/App.class
-tp/testing/Libro.class
-tp/testing/Usuario.class
