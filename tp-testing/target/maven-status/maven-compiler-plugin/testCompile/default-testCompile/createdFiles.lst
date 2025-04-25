@@ -1,4 +1,5 @@
 tp/testing/LibroTest.class
 tp/testing/CatalogoTest.class
+tp/testing/GestionUsuariosTest.class
 tp/testing/SistemaPrestamosTest.class
 tp/testing/UsuarioTest.class
