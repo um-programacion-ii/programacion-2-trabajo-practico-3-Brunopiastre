@@ -1,0 +1,6 @@
+modelo/LibroTest.class
+modelo/PrestamoTest.class
+servicio/GestionUsuariosTest.class
+modelo/UsuarioTest.class
+modelo/CatalogoTest.class
+servicio/SistemaPrestamosTest.class
