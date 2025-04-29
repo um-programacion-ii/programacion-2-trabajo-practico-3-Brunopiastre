@@ -1,7 +1,9 @@
-tp/testing/Catalogo.class
-tp/testing/Prestamo.class
-tp/testing/Libro.class
-tp/testing/GestionUsuarios.class
-tp/testing/Usuario.class
-tp/testing/SistemaPrestamos.class
-tp/testing/App.class
+excepciones/UsuarioNoEncontradoException.class
+modelo/Prestamo.class
+modelo/Libro.class
+excepciones/LibroNoDisponibleException.class
+servicio/SistemaPrestamos.class
+modelo/EstadoLibro.class
+modelo/Catalogo.class
+servicio/GestionUsuarios.class
+modelo/Usuario.class

@@ -1,5 +1,6 @@
-tp/testing/LibroTest.class
-tp/testing/CatalogoTest.class
-tp/testing/GestionUsuariosTest.class
-tp/testing/SistemaPrestamosTest.class
-tp/testing/UsuarioTest.class
+modelo/LibroTest.class
+modelo/PrestamoTest.class
+servicio/GestionUsuariosTest.class
+modelo/UsuarioTest.class
+modelo/CatalogoTest.class
+servicio/SistemaPrestamosTest.class
