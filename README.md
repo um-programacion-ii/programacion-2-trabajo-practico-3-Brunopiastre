@@ -1,16 +1,18 @@
 # 📚 Trabajo Práctico de Testing – Programación II
-Piastrellini Bruno 
+**Piastrellini Bruno**  
+**Legajo:** 62083
+
 ## 📦 Estructura del Proyecto
 
-- **`src/main/java/`** → Clases principales del sistema (`Libro`, `Catalogo`, `Usuario`, `Prestamo`, `SistemaPrestamos`, `GestionUsuarios`)
-- **`src/test/java/`** → Clases de prueba unitarias usando JUnit5 y Mockito
+- **`src/main/java/`** → Clases principales del sistema (`Libro`, `Catalogo`, `Usuario`, `Prestamo`, `SistemaPrestamos`, `GestionUsuarios`, `EstadoLibro`)
+- **`src/test/java/`** → Clases de prueba unitaria utilizando JUnit5 y Mockito.
 
 ## 🚀 Cómo ejecutar el proyecto
 
 1. **Clonar el repositorio**:
 
 ```bash
-git clone https://github.com/um-programacion-ii/testing-tp-Brunopiastre.git
+git clone https://github.com/um-programacion-ii/programacion-2-trabajo-practico-3-Brunopiastre.git
 cd tp-testing
 ```
 
@@ -24,20 +26,21 @@ Todas las pruebas deben pasar correctamente.
 
 ## 🔧 Tecnologías utilizadas
 
-- Java 17
+- Java 21
 - Maven
 - JUnit 5
 - Mockito
 
-## 🎯 Funcionalidades cubiertas
+## 🌟 Funcionalidades cubiertas
 
-- Administración de libros y catálogos
-- Préstamos y devoluciones
-- Gestión de usuarios
-- Pruebas de comportamiento exitoso y fallos
-- Simulación de dependencias con Mockito
-- Cobertura de casos límite
+- Administración de libros y catálogos.
+- Préstamos y devoluciones de libros.
+- Gestión de usuarios.
+- Pruebas unitarias de comportamiento exitoso y fallos.
+- Simulación de dependencias utilizando Mockito.
+- Cobertura de casos límite y manejo de excepciones.
 
-# ✅ Estado Final
+## ✅ Estado Final
 
-Todo el trabajo fue desarrollado en ramas separadas, siguiendo los issues y milestones definidos en el proyecto.
+Todo el trabajo cumple con los requerimientos funcionales y de testing solicitados, siguiendo los milestones establecidos en el proyecto.
+
